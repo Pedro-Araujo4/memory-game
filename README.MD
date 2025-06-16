@@ -1,1 +1,5 @@
-# A memory Game made with javascript, html and css
+# Memory Game
+
+# A memory Game made with javascript, html and css.
+
+
